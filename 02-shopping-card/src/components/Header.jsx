@@ -4,7 +4,7 @@ import React from 'react'
 export const Header = () => {
   return (
     <header>
-        <h1>React Shop 🛒</h1>
+        <h1>React Shop </h1>
         <Filters />
     </header>
   )
